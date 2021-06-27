@@ -20,7 +20,7 @@ const Coong = {
                         speaker: null,
                         mentor: null,
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react"
+ challenge: "I am doing the #100DaysOfCode challenge focused on ...."
 }
 ```
 
