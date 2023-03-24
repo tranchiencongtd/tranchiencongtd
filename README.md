@@ -13,14 +13,14 @@
 const Coong = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS],
-  tools: [React, Node, Git, Styled-Components],
+  tools: [React, Node, Git, Java, .NET],
   architecture: ["design system pattern"],
   techCommunities: {
                         coorganizer: null,
                         speaker: null,
                         mentor: null,
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on ...."
+ challenge: "I am doing the some challenge focused on web development"
 }
 ```
 
