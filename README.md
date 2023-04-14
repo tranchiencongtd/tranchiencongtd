@@ -12,8 +12,8 @@
 ```javascript
 const Coong = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS],
-  tools: [React, Node, Git, Java, .NET],
+  code: [Javascript, HTML, CSS, .NET, ReactJS],
+  tools: [ Git, Visual Studio Code],
   architecture: ["design system pattern"],
   techCommunities: {
                         coorganizer: null,
