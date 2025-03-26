@@ -10,9 +10,9 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const Coong = {
+const congtc = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, .NET, ReactJS],
+  code: [Javascript, HTML, CSS, .NET, ReactJS, Java SpringBoot],
   tools: [ Git, Visual Studio Code],
   architecture: ["design system pattern"],
   techCommunities: {
